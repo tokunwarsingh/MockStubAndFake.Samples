@@ -1,0 +1,11 @@
+D:\code\Fake.Sample\bin\Debug\net8.0\Fake.Sample.deps.json
+D:\code\Fake.Sample\bin\Debug\net8.0\Fake.Sample.dll
+D:\code\Fake.Sample\bin\Debug\net8.0\Fake.Sample.pdb
+D:\code\Fake.Sample\obj\Debug\net8.0\Fake.Sample.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\Fake.Sample\obj\Debug\net8.0\Fake.Sample.AssemblyInfoInputs.cache
+D:\code\Fake.Sample\obj\Debug\net8.0\Fake.Sample.AssemblyInfo.cs
+D:\code\Fake.Sample\obj\Debug\net8.0\Fake.Sample.csproj.CoreCompileInputs.cache
+D:\code\Fake.Sample\obj\Debug\net8.0\Fake.Sample.dll
+D:\code\Fake.Sample\obj\Debug\net8.0\refint\Fake.Sample.dll
+D:\code\Fake.Sample\obj\Debug\net8.0\Fake.Sample.pdb
+D:\code\Fake.Sample\obj\Debug\net8.0\ref\Fake.Sample.dll

@@ -1,0 +1,11 @@
+D:\code\Stub.Sample\bin\Debug\net8.0\Stub.Sample.deps.json
+D:\code\Stub.Sample\bin\Debug\net8.0\Stub.Sample.dll
+D:\code\Stub.Sample\bin\Debug\net8.0\Stub.Sample.pdb
+D:\code\Stub.Sample\obj\Debug\net8.0\Stub.Sample.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\Stub.Sample\obj\Debug\net8.0\Stub.Sample.AssemblyInfoInputs.cache
+D:\code\Stub.Sample\obj\Debug\net8.0\Stub.Sample.AssemblyInfo.cs
+D:\code\Stub.Sample\obj\Debug\net8.0\Stub.Sample.csproj.CoreCompileInputs.cache
+D:\code\Stub.Sample\obj\Debug\net8.0\Stub.Sample.dll
+D:\code\Stub.Sample\obj\Debug\net8.0\refint\Stub.Sample.dll
+D:\code\Stub.Sample\obj\Debug\net8.0\Stub.Sample.pdb
+D:\code\Stub.Sample\obj\Debug\net8.0\ref\Stub.Sample.dll
